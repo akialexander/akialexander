@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akialexander
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning C
 
 <!---
 akialexander/akialexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
